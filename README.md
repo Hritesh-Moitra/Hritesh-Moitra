@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hritesh-Moitra
 - 👀 I’m interested in Data Science and Data Analytics Projects.
-- 🌱 I’m currently learning Datas Analytics
+- 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on Projects with challenges and learning oppurtunities in Data Analytics.
 - 📫 How to reach me , email-id:- hriteshmoitra1999@gmail.com
 
